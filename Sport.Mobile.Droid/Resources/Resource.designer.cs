@@ -7322,6 +7322,7 @@ namespace Sport.Mobile.Droid
 			// aapt resource value: 0x7f02013f
 			public const int avd_hide_password_1 = 2130837823;
 			
+			// aapt resource value: 0x7f020140
 			public const int avd_hide_password_2 = 2130837824;
 			
 			// aapt resource value: 0x7f020141

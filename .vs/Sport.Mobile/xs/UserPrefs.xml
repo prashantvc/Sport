@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{29B448E1-4C6E-49D6-BA06-E02CC27AC8B4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sport.Mobile.Shared/Keys.cs">
+    <Files>
+      <File FileName="Sport.Mobile.Droid/Resources/values/style.xml" Line="16" Column="13" />
+      <File FileName="Sport.Mobile.Shared/Keys.cs" Line="25" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Sport.Mobile.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B34C7C89-FB5D-4E2E-AACF-0DB67547CF57" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Sport.Mobile.Droid PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
