@@ -1,16 +1,21 @@
 ﻿<Properties StartupConfiguration="{29B448E1-4C6E-49D6-BA06-E02CC27AC8B4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Sport.Mobile.Shared/Keys.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sport.Mobile.Shared/ViewModels/AuthenticationViewModel.cs">
     <Files>
       <File FileName="Sport.Mobile.Droid/Resources/values/style.xml" Line="16" Column="13" />
-      <File FileName="Sport.Mobile.Shared/Keys.cs" Line="25" Column="2" />
+      <File FileName="Sport.Mobile.Shared/Pages/WelcomeAuthentication/WelcomeStartPage.xaml" Line="15" Column="47" />
+      <File FileName="Sport.Mobile.Shared/ViewModels/AuthenticationViewModel.cs" Line="59" Column="21" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Sport.Mobile.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B34C7C89-FB5D-4E2E-AACF-0DB67547CF57" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/prashantvc/playground/sport/Sport.Mobile.Shared/ViewModels/AuthenticationViewModel.cs" relfile="Sport.Mobile.Shared/ViewModels/AuthenticationViewModel.cs" line="116" column="1" />
+      <Breakpoint file="/Users/prashantvc/playground/sport/Sport.Mobile.Shared/ViewModels/AuthenticationViewModel.cs" relfile="Sport.Mobile.Shared/ViewModels/AuthenticationViewModel.cs" line="49" column="1" />
+      <Breakpoint file="/Users/prashantvc/playground/sport/Sport.Mobile.Shared/ViewModels/AuthenticationViewModel.cs" relfile="Sport.Mobile.Shared/ViewModels/AuthenticationViewModel.cs" line="171" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Sport.Mobile.Droid PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.Sport.Mobile.Droid PreferredExecutionTarget="Android.Android_Accelerated_Oreo" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>

@@ -17,7 +17,7 @@ namespace Sport.Mobile.Shared
 
 		public static readonly string GoogleClientIdiOS = "707751590419-1rv4eautkn4qlt8djvkbqa6nov0p7f0p.apps.googleusercontent.com"; //iOS App
 		public static readonly string GoogleServerIdiOS = "707751590419-6kh953g6p97ad1b7iolcoar5liepacnd.apps.googleusercontent.com"; //WebApp for server
-		public static readonly string GoogleServerIdAndroid = "707751590419-6kh953g6p97ad1b7iolcoar5liepacnd.apps.googleusercontent.com"; //WebApp for Android
+		public static readonly string GoogleServerIdAndroid = "410404199808-srmg624jk6fddctom8nbd73f7sjtvihc.apps.googleusercontent.com"; //WebApp for Android
 		public static readonly string GoogleClientIdAndroid = GoogleServerIdAndroid; //Android auth uses the WebApp key
 
 		public static string AzureDomain = AzureDomainRemote;
